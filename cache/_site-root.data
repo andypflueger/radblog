@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Home Page</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+  <div id="site-title">Andy Pflueger's Blog</div>
+  <div id="site-subtitle">another geek with a blog sharing tips & tricks of the trade</div>
+</div>
+<hr class="hidden" />
+
+      <div id="main">
+        <div id="content-wrapper">
+          <div id="content">
+            
+            
+
+
+<div class="first entry">
+  <h3><a href="/articles/2009/03/29/hello-world/">Hello World!</a></h3>
+  Welcome to my new "RadiantCMS":http://radiantcms.org/ powered blog. As you can see it's a work in progress but I encourage you to check back for future improvements in content.
+  <a href="/articles/2009/03/29/hello-world/#extended">Continue Reading&#8230;</a>
+  <p class="info">Posted by Administrator on Mar 29, 2009</p>
+</div>
+
+
+
+
+
+
+            
+            
+          </div>
+        </div>
+        <div id="sidebar-wrapper">
+          <div id="sidebar">
+            <h3>About Me</h3>
+
+
+	<p>I&#8217;m a computer geek who just likes tinkering with Linux and open-source technologies. <a href="/about/">More&#8230;</a></p>
+
+
+	<h3>Pages</h3>
+
+
+	<ul>
+	<li><a href="/about/">About</a></li>
+		<li><a href="/gallery/">Gallery</a></li>
+	</ul>
+
+
+	<h3>Favorite Sites</h3>
+
+
+	<ul>
+	<li><a href="http://radiantcms.org">Radiant <span class="caps">CMS</span></a></li>
+		<li><a href="http://ruby-lang.org">Ruby-Lang</a></li>
+		<li><a href="http://wiseheartdesign.com">Wiseheart Design</a></li>
+		<li><a href="http://avlux.net"><span class="caps">AVLUX</span> Hosting</a></li>
+	</ul>
+
+
+	<h3>Recent Entries</h3>
+
+
+	<p><a href="/articles/">Archives&#8230;</a></p>
+
+
+	<h3>Syndicate</h3>
+
+
+	<p><a href="/rss/">Articles <span class="caps">RSS</span> Feed</a></p>
+          </div>
+        </div>
+      </div>
+      <hr class="hidden" />
+<div id="footer">
+  <p>Copyright &copy; 2009, Pflueger Services. All rights reserved.<br />
+    This site is powered by <a href="http://radiantcms.org/">Radiant CMS</a>.</p>
+</div>
+
+    </div>
+  </body>
+</html>

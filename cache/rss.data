@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Article RSS Feed</title>
+    <link>http://your-web-site.com/rss/</link>
+    <language>en-us</language>
+    <ttl>40</ttl>
+    <description>The main blog feed for my Web site.</description>
+    
+    
+        <item>
+          <title>Hello World!</title>
+          <description>Welcome to my new &quot;RadiantCMS&quot;:http://radiantcms.org/ powered blog. As you can see it's a work in progress but I encourage you to check back for future improvements in content.</description>
+          <pubDate>Sun, 29 Mar 2009 15:37:03 GMT</pubDate>
+          <guid>http://your-web-site.com/articles/2009/03/29/hello-world/</guid>
+          <link>http://your-web-site.com/articles/2009/03/29/hello-world/</link>
+        </item>
+    
+    
+  </channel>
+</rss>
+
